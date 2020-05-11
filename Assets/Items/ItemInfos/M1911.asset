@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c73e64129ceb1c408fbfdb856da728c, type: 3}
+  m_Name: M1911
+  m_EditorClassIdentifier: 
+  itemName: M1911 Handgun
+  description: 
+  icon: {fileID: 21300000, guid: 5f2e7d406037d4345a03c342bc6cf615, type: 3}
+  value: 100
+  maxStackAmount: 1
+  toolObject: {fileID: 4272035764415613904, guid: c0bac93a0f8cf8e4e9984a2e2bb08148,
+    type: 3}
+  maxAmmo: 6
+  ammoItemInfo: {fileID: 11400000, guid: b51ee8276dbdb9d499cc1cdb09e0f839, type: 2}

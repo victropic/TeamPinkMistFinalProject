@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 906765b14442b16438d847a852825dff, type: 3}
+  m_Name: WaterBottle
+  m_EditorClassIdentifier: 
+  itemName: Water Bottle
+  description: 
+  icon: {fileID: 21300000, guid: d220195039663bf44b9fb9cd66e6f7d1, type: 3}
+  value: 20
+  maxStackAmount: 3
+  statusEffect: {fileID: 11400000, guid: 3be302e5045e5ba4ab68bdf8d3787375, type: 2}
