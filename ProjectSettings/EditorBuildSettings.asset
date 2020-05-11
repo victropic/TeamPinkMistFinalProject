@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Menus/GameWonScene.unity
     guid: a050aef76f7f54643837797ccc084898
+  - enabled: 1
+    path: Assets/Environments/Dancing.unity
+    guid: 2d965236c7e16d9438a6bc6073b4aaeb
   m_configObjects: {}

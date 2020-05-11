@@ -7,16 +7,11 @@ using UnityEngine.SceneManagement;
 public class PlayButton : MonoBehaviour
 {
 
-    Button button;
-    
-    // Start is called before the first frame update
-    void Start()
-    {
-        button = GetComponent<Button>();
-        button.onClick.AddListener(StartGame);
-    }
-
     public void StartGame() {
         SceneManager.LoadScene(1, LoadSceneMode.Single);
+    }
+
+    public void DanceMode() {
+        SceneManager.LoadScene(3, LoadSceneMode.Single);
     }
 }
